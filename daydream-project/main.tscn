@@ -542,10 +542,10 @@ tile_set = SubResource("TileSet_272bh")
 
 [node name="TextureRect" type="TextureRect" parent="TileMapLayer"]
 show_behind_parent = true
-offset_left = 93.0
+offset_left = -153.0
 offset_top = -18.0
 offset_right = 8184.0
-offset_bottom = 641.0
+offset_bottom = 763.0
 texture = ExtResource("4_1bvp3")
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="TileMapLayer"]
