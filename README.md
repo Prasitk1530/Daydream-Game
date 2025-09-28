@@ -1,3 +1,6 @@
-The Fatal Kyousou
+Our Game is: The Fatal Kyousou
 
-After a brutal war fought in the shadow of their lords, a samurai and a ninja — sworn brothers bound by a shared past — embark on the treacherous journey home. For generations, their families have been the unseen pillars of power, their lives intertwined in a delicate balance of honor and subterfuge. But the path that awaits them, the one known only as The Fatal Kyousou , where one must ultimately be sacrficed for the other to succeed and is the ultimate test of their loyalty for each other. You have been chosen to control their fate. Make your decisons strategically to collect the artifacts and unlock the path to the village by making a smart sacrifice.
+StoryLine: There is a Samurai and Ninja who initially were best friends, however as the ninja's and samurai's saw them talking and being friends with each other their hatred for each other only grew
+so one day when the Ninja and Samurai went home to their respective Villages they came across all the other Ninja and Samurai waiting for them. The Ninja's and Samurai's told them either you kill them 
+or we will kick you out of the village and refuse to protect your parents anymore so the next day when the samurai and ninja met they were both crying however when they saw the other person they had no choice
+and they charged at each other eyes burning with fear and angry.
